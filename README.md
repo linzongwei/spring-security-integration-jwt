@@ -1,5 +1,5 @@
 # spring-security-integration-jwt
-spring security认证授权框架 结合jwt签名实现登录鉴权
+spring security认证授权框架 结合jwt签名实现登录鉴权、访问鉴权
 # 启动
   - 程序内置H2内存数据库，不需要连接外部数据库
   - 无需修改配置文件，即可启动程序
